@@ -1,0 +1,6 @@
+How to open jsp file in localhost?
+1. Make sure tomcat services is running.
+2. Save jsp file inside tomcat folder below:
+C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\ROOT
+3. Create .jsp file and save inisde ROOT folder. (eg. test.jsp)
+4. Go to localhost:8081/test.jsp
